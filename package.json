@@ -1,0 +1,12 @@
+{
+  "name": "postgres-node-rest-api",
+  "version": "1.0.0",
+  "description": "PostgreSQL, Node.js(Express) kullanarak RESTful API yapımı. Xlsx Liste oluşturma. RESTful API construction using PostgreSQL, Node.js (Express). Create Xlsx list.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
